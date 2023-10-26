@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**cristianeams/cristianeams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi 👋 My name is Cristiane Silva
+================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend Developer
+------------------
+
+I'm a Frontend Developer with 5+ years of experience in JavaScript/TypeScript, HTML/CSS, using React, NextJS and GraphQL. Excellent problem-solving and communication skills working with B2B companies.
+
+*   🌍  I'm based in Vancouver, BC
+*   🖥️  See my portfolio at [cristiane.dev](http://www.cristiane.dev/)
+*   ✉️  You can contact me at [contact@cristiane.dev](mailto:contact@cristiane.dev)
+*   🚀  I'm currently working on [Neon](http://neon.cc)
