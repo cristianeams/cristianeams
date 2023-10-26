@@ -1,6 +1,6 @@
 
 
-Hi 👋 My name is Cristiane Silva
+Hi 👋 My name is Cristiane Silva(she/her)
 ================================
 
 Frontend Developer
